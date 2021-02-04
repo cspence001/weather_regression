@@ -1,0 +1,77 @@
+
+
+header {
+	background-color: teal;
+	color: white;
+	height:50px;
+
+}
+
+body {
+	background-color: #F2F3F4;
+}
+
+nav {
+	background-color: white;
+	height: 50px;
+}
+
+nav ul {
+	float:right;
+
+}
+
+nav ul li {
+	display: inline;
+	padding: 15px;
+}
+
+nav ul li a {
+	text-decoration: none;
+}
+
+#row {
+	width:100%;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+#summary {
+	background-color: white;
+	float:left;
+	width:70%;
+	min-height: 400px;
+	padding-top: 40px;
+
+}
+
+#analysis {
+	background-color: white;
+	float: right;
+	width: 30%;
+	min-height: 400px;
+}
+
+
+#vis1,
+#vis2,
+#vis3,
+#vis4 {
+	width:150px;
+	height: 150px;
+}
+
+a {
+	color:black;
+}
+
+h1 {
+
+}
+
+h2 {
+	background-color: white;
+	color:teal;
+}
+
