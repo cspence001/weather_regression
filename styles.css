@@ -1,77 +1,52 @@
 
+.customDiv{
+    margin:3px;
+    min-height:500px;
+    background-color:silver;
+    text-align:left;
+}
 
-header {
-	background-color: teal;
-	color: white;
-	height:50px;
+.customDiv2{
+    margin:3px;
+    min-height:460px;
+    background-color:silver;
+    text-align:left;
+}
+
+.col-md-8 {
+	padding-top:60px;
 
 }
 
-body {
-	background-color: #F2F3F4;
+.col-md-4 {
+	padding-top:60px;
 }
 
-nav {
-	background-color: white;
-	height: 50px;
-}
-
-nav ul {
-	float:right;
-
-}
-
-nav ul li {
-	display: inline;
-	padding: 15px;
-}
-
-nav ul li a {
-	text-decoration: none;
-}
-
-#row {
-	width:100%;
-	clear: both;
-	padding: 0px;
-	margin: 0px;
-}
-
-#summary {
-	background-color: white;
-	float:left;
-	width:70%;
-	min-height: 400px;
-	padding-top: 40px;
-
-}
-
-#analysis {
-	background-color: white;
-	float: right;
-	width: 30%;
-	min-height: 400px;
-}
-
-
-#vis1,
-#vis2,
-#vis3,
-#vis4 {
-	width:150px;
-	height: 150px;
-}
-
-a {
-	color:black;
-}
-
-h1 {
-
+p {
+	margin:15px;
 }
 
 h2 {
-	background-color: white;
-	color:teal;
+	padding-top:15px;
+	margin:15px;
 }
 
+#vismain {
+	width:200px;
+	height: 200px;
+	margin:15px;
+}
+
+.col {
+	margin:15px; 
+	width:150px;
+	height: 150px;
+	display: block;
+}
+
+.col2 {
+	margin:15px; 
+	width:150px;
+	height: 150px;
+	display: block;
+}
