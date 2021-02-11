@@ -67,32 +67,21 @@ h2 {
 	font-weight: bold;
 }
 
-/*#image1 {
-	width:150px;
-	height:150px;
-}*/
 
-
-/*#vis1:hover, #vis1:active {
-	border:2px solid;
-	border-color: #4aaaa5;
-}
-#vis2:hover, #vis2:active {
-	border:2px solid;
-	border-color: #4aaaa5;
-}
-#vis3:hover, #vis3:active {
-	border:2px solid;
-	border-color: #4aaaa5;
-}
-#vis4:hover, #vis4:active {
-	border:2px solid;
-	border-color: #4aaaa5;
+.content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
 }
 
-.active{
-	border:2px solid;
-	border-color: #4aaaa5;
-}
+@media(max-width:767px){
+    .navbar.bg-light{
+        background-color: rgb(81, 175, 160)!important;    
+    }
 
-*/
+    .navbar-collapse{
+        background-color: #f8f9fa;
+    }
+    .navbar{
+        padding:inherit;
+    }
