@@ -1,6 +1,6 @@
 # Web_Design_Challenge
 
-<p>The Web Design challenge exhibited in this notebook are the reference files to a GitHub pages hosted website rendered fully at https://cspence001.github.io/Sites/Web_Design_Challenge.io/index.html .
+<p>The Web Design challenge exhibited in this notebook are the reference files to a GitHub pages hosted website rendered fully at https://cspence001.github.io/Sites/web_design.io/index.html .
 
 The files in this notebook contain framework HTML and accordant CSS files used to create the dashboard and subsequent pages that display pages for visualization of relationships between weather elements referenced from a previous project plotting Weather Data from the OpenWeatherMap API. The project is located here https://github.com/cspence001/api_challenge and contains visualizations of the weather of over 500 cities and the relationships in the form of scatterplots between Temperature and Latitude, Humidity and Latitude, Cloudiness and Latitude, and Wind Speed and Latitude.
 
