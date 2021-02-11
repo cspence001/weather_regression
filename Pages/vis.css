@@ -32,16 +32,17 @@ body {
 }
 
 .customDiv{
-    height:auto;
     background:#fff;
     text-align:left;
     color: #2f4f4f;
+    overflow: hidden;
 }
 
 .customDiv2{
     height:auto;
     background:#fff;
     text-align:left;
+    overflow: hidden;
 }
 
 .col-md-12 {
@@ -112,10 +113,4 @@ h3 {
 	border:2px solid;
 	border-color: #4aaaa5;
 }
-/*
-#vismain {
-	width:200px;
-	height: 200px;
-	margin:15px;
-}*/
 

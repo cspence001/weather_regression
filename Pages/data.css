@@ -28,6 +28,7 @@ body {
     background:#fff;
     text-align:left;
     color: #2f4f4f;
+    overflow: hidden;
 }
 
 .row {

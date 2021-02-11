@@ -36,12 +36,14 @@ body {
     background:#fff;
     text-align:left;
     color: #2f4f4f;
+    overflow: hidden;
 }
 
 .customDiv2{
     height:auto;
     background:#fff;
     text-align:left;
+    overflow: hidden;
 }
 
 .col-md-8 {
@@ -119,12 +121,7 @@ h3 {
 	border-color: #4aaaa5;
 }
 
-/*.col {
-	margin:15px; 
-	width:150px;
-	height: 150px;
-	display: block;
-}*/
+
 
 
 
