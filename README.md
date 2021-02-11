@@ -13,7 +13,7 @@ The file containments within this repository used to create a dashboard to displ
 <br>  
     <li> <b>Comparison Page</b><p>The Comparison Page contains all of the visualizations on the same page for comparison. It is located in the Pages Folder titled comparisons.html and it's linked to stylesheet comparisons.css <a href="cspence001/Web_Design_Challenge/Pages/">here</a>.</p></li>
 <br>   
-     <li> <b>Data Page</b><p>The Data Page displays a responsive table containing the data used in the visualizations. It uses the Bootstrap Table component to render the city_data.html file located within the <a href="cspence001/Web_Design_Challenge/Resources/Assets/">Resources/Assets</a> folder. The Data Page files are in the Pages folder titled data.html and it's linked relation to it's stylesheet titled data.css.<a href="cspence001/Web_Design_Challenge/Pages/">index.html</a></p></li>
+     <li> <b>Data Page</b><p>The Data Page displays a responsive table containing the data used in the visualizations. It uses the Bootstrap Table component to render the city_data.html file located within the <a href="cspence001/Web_Design_Challenge/Resources/Assets/">Resources/Assets</a> folder. The Data Page files are in the Pages folder titled data.html and it's linked relation to it's stylesheet titled data.css located <a href="cspence001/Web_Design_Challenge/Pages/">here</a>.</p></li>
 <br>
 </ul>
 
