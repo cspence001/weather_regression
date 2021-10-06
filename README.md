@@ -1,4 +1,4 @@
-# Web_Design_Challenge
+# weather_regression
 
 <p>The Web Design challenge exhibited in this notebook are the reference files to a GitHub pages hosted website rendered fully at https://cspence001.github.io/Sites/web_design.io/index.html .
 
